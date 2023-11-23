@@ -7,7 +7,7 @@
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
     "author": "John Clampet",
     "avatar": "../content/images/gatsby.png",
-    "bio": "Software Developer, enver CO",
+    "bio": "Software Developer, Denver CO",
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/jsclampet",
@@ -20,7 +20,7 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Features", "url": "/#features" },
+        { "label": "Portfolio", "url": "/#portfolio" },
         { "label": "Github", "url": "https://github.com/jsclampet" }
       ],
       "ctaButton": {
