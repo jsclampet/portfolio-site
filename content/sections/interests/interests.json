@@ -1,16 +1,16 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "React",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Typescript",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/typescript.png",
         "alt": ""
       }
     },
