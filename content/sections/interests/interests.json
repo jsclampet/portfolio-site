@@ -15,44 +15,44 @@
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Javascript",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/js.png",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Axios",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/axios.png",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "HTML",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/html.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "CSS",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/css.png",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Bootstrap",
+      "image": {
+        "src": "../../images/bootstrap.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Gatsby",
       "image": {
         "src": "../../images/gatsby.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Blazing Fast",
-      "image": {
-        "src": "../../images/high-voltage.png",
         "alt": ""
       }
     }

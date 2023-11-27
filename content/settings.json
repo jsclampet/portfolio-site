@@ -2,9 +2,9 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "title": "John Clampet, Software Developer",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "description": "John Clampet's portfolio website, Denver Colorado Software Developer",
     "author": "John Clampet",
     "avatar": "../content/images/gatsby.png",
     "bio": "Software Developer, Denver CO",
@@ -12,7 +12,7 @@
       "behance": "https://behance.com",
       "github": "https://github.com/jsclampet",
       "linkedin": "https://www.linkedin.com/in/john-clampet-264007122/",
-      "mail": "john@johnclampet.dev"
+      "mail": "mailto:john@johnclampet.dev"
     }
   },
   "siteConfiguration": {
@@ -21,7 +21,7 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Portfolio", "url": "/#portfolio" },
-        { "label": "Github", "url": "https://github.com/jsclampet" }
+        { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
         "openNewTab": true,
