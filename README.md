@@ -4,7 +4,7 @@
 
 View it [here](https://johnclampet.net)
 
-![app-preview](/Screenshot.png)
+![app-preview](/screenshot.png)
 
 ## Summary
 Hello there! I'm John, a passionate software developer interested in crafting dynamic and user-friendly web experiences. I’ve always been fascinated with the evolution of tech and its ability to transform and improve our daily lives. I specialize in React/TypeScript, building and creating innovative web solutions.
