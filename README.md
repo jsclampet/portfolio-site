@@ -2,7 +2,7 @@
 
 *My portfolio website, written with Gatsby framework.*
 
-View it [here](/Users/johnclampet/Documents/Coding/portfolio/Screenshot.png)
+View it [here](Screenshot.png)
 
 ![app-preview](src/Screenshot%202023-10-10%20at%201.59.43 AM.png)
 
