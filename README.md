@@ -2,9 +2,9 @@
 
 *My portfolio website, written with Gatsby framework.*
 
-View it [here](Screenshot.png)
+View it [here](https://johnclampet.net)
 
-![app-preview](src/Screenshot%202023-10-10%20at%201.59.43 AM.png)
+![app-preview](Screenshot.png)
 
 ## Summary
 Hello there! I'm John, a passionate software developer interested in crafting dynamic and user-friendly web experiences. I’ve always been fascinated with the evolution of tech and its ability to transform and improve our daily lives. I specialize in React/TypeScript, building and creating innovative web solutions.
