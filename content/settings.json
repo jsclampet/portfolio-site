@@ -6,7 +6,7 @@
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "John Clampet's portfolio website, Denver Colorado Software Developer",
     "author": "John Clampet",
-    "avatar": "../content/images/gatsby.png",
+    "avatar": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b2197546635603.585c31b047b25.png",
     "bio": "Software Developer, Denver CO",
     "social": {
       "behance": "https://behance.com",
