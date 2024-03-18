@@ -3,6 +3,28 @@
     {
       "visible": true,
       "category": "",
+      "title": "Twitter Showcase",
+      "description": "Search for Tweet(s) by username or keywords. This app will show the most recent data from the Twitter API",
+      "tags": ["Fullstack","React/TS client-side", "NodeJS/Express server-side"],
+      "image": {
+        "src": "../../images/twitter-showcase.png",
+        "alt": "Twitter Showcase Image",
+        "linkTo": "https://twitter-showcase-1bin.onrender.com/search"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/jsclampet/twitter-showcase"
+        },
+        {
+          "type": "external",
+          "url": "https://swapi-1kd.pages.dev/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
       "title": "Starwars Database",
       "description": "Users can navigate through a searchable table of all StarWars characters. Under the hood, this app manages multiple API requests, retrieving the data and presenting it on the front end.",
       "tags": ["Built with React/TS", "Handles multiple API requests"],
