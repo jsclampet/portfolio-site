@@ -1,18 +1,21 @@
-# My Portfolio
+# Twitter Showcase
 
-*My portfolio website, written with Gatsby framework.*
+*An app that allows you to search for Twitter Users and Tweets. 
+Written in React/TS on the Frontend and NodeJS/Express on the Backend.*
 
-View it [here](https://johnclampet.net)
+View it [here](https://twitter-showcase-1bin.onrender.com/home)
 
-![app-preview](/screenshot.png)
+[![preview](app-preview.png)](https://twitter-showcase-1bin.onrender.com/home)
+
+![image preview](/screenshot.png)
 
 ## Summary
-Hello there! I'm John, a passionate software developer interested in crafting dynamic and user-friendly web experiences. I’ve always been fascinated with the evolution of tech and its ability to transform and improve our daily lives. I specialize in React/TypeScript, building and creating innovative web solutions.
 
-I thrive on the ever-evolving nature of web development, finding joy in continously learning new techniques that enhance user interaction and experience. I firmly believe that even the smallest advancements in this field can significantly improve our digital landscape, making tasks simpler and more accessible for everyone. I am a tech enthusiast at heart, always eager to explore emerging trends and technologies.
+This application, designed with React/TS on the frontend and NodeJS/Express on the backend, enables efficient searching for Twitter users and tweets. When a user submits a search, the frontend sends a GET request to the backend, which then triggers a corresponding GET request to the Twitter API. Once the Twitter API responds, the backend checks for errors, formats the data, and sends it back to the frontend for display to the user.
 
-To quote productivity guru Ali Abdaal, I believe that “everything is figure-out-able”.
+Navigating the Twitter API's various access tiers was initially challenging. I thoroughly reviewed the API documentation to ensure I was authorized to make specific requests and access the needed information. Every request to this API required authorization via a bearer token, so I used dotenv variables for confidentiality and configured the bearer token within an axios instance, streamlining the codebase by eliminating unnecessary lines.
 
+I learned that deploying a fullstack app is very different from deploying a static website. Upon successful deployment, I deepened my understanding of npm scripts, the build process, and the nuances of deploying across different environments.
 
 ## Author
 - John Clampet: FullStack Software Developer
